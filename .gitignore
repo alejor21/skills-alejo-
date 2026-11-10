@@ -1,2 +1,4 @@
 node_modules
 .claude
+# Local secrets written by `elevenlabs onboard`
+/.env.local
